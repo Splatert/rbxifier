@@ -17,3 +17,9 @@ The folders containing roblox's textures can be found at C:/Users/Yourname/AppDa
 3. Open RBXifier, choose the archive you've made, and click on RBXify.
 
 If done correctly, the original textures will be replaced with your own textures.
+
+# How do I go back to the original textures?
+I included the original textures as a texture pack inside one of rbxifier's folders. Simply click on Revert and click on rbxify to apply the original textures back.
+
+# Any texture packs I can quickly test this on?
+Yeah. I've included a texture pack you can test this on under the name rbx2012 which contains 2012 roblox textures.
